@@ -82,3 +82,10 @@ Perfect for building visual workflow tools.
     Execute workflows on server
     Track running instance progress
     Show workflow history
+
+
+
+
+Output:
+  <img width="1912" height="915" alt="image" src="https://github.com/user-attachments/assets/57dec3d5-06b8-4dbe-bf26-b2e7f18c2955" />
+
